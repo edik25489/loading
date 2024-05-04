@@ -4,7 +4,7 @@
 
 
 <template>
-  <v-app id="inspire">
+
     <v-app-bar
         class="px-3"
         density="compact"
@@ -76,5 +76,5 @@
         </v-row>
       </v-container>
     </v-main>
-  </v-app>
+
 </template>
