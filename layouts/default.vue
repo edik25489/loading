@@ -3,10 +3,9 @@
 </script>
 
 <template>
-
-    <slot/>
-
-
+<v-app>
+  <slot/>
+</v-app>
 </template>
 
 <style scoped>
